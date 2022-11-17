@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: miniai
+Version: 0.0.1
+Summary: A deep learning framework
+Home-page: https://github.com/xrsrke/miniai
+Author: xariusrke
+Author-email: b3f0cus@icloud.com
+Maintainer: xariusrke
+License: GPL-3.0
+Keywords: deep learning,ai,machine learning
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# miniai
+A mini deep learning framework
+
+Work in Progress

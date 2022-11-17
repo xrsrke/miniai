@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+miniai.egg-info/PKG-INFO
+miniai.egg-info/SOURCES.txt
+miniai.egg-info/dependency_links.txt
+miniai.egg-info/requires.txt
+miniai.egg-info/top_level.txt

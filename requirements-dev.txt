@@ -1,0 +1,4 @@
+pytest
+nbdev
+fastai
+fastcore
